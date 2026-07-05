@@ -36,11 +36,11 @@ des projets, identifier les retards et contrôler les performances.
 
 ## Livrables
 
-- 📊 Fichier Power BI (.pbix) : `[à ajouter]`
-- 📄 Note de cadrage : `[à ajouter]`
-- 📄 Procédure de mise à jour : `[à ajouter]`
+- 📊 [Tableau de bord Power BI (.pbix)](https://github.com/Bassecou/P7-dashboard-pmo-powerbi/blob/main/Toure_Bassecou_1_tableau_de_bord_260226..pbix)
+- 📄 [Données Sanitoral](https://github.com/Bassecou/P7-dashboard-pmo-powerbi/blob/main/Donneg%CC%A7es%2BSanitoral%2B(1).xlsx)
+- 📄 [Dictionnaire des données](https://github.com/Bassecou/P7-dashboard-pmo-powerbi/blob/main/Dictionnaire%2Bdes%2Bdonne%CC%81es%2B(2).xlsx)
 
 ## Auteur
 
-**Bassecou Touré** · Data Analyst · Data ESN  
+**Bassecou Toure** · Data Analyst · Data ESN  
 [LinkedIn](https://www.linkedin.com/in/bassecou-toure) · [Portfolio](https://github.com/Bassecou)
