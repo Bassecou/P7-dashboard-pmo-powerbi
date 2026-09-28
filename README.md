@@ -43,4 +43,4 @@ des projets, identifier les retards et contrôler les performances.
 ## Auteur
 
 **Bassecou Toure** · Data Analyst · Data ESN  
-[LinkedIn](https://www.linkedin.com/in/bassecou-toure) · [Portfolio](https://github.com/Bassecou)
+[LinkedIn](https://www.linkedin.com/in/bassecou-toure) · **[Découvrir mon portfolio](https://bassecou.github.io/portfolio/)**
